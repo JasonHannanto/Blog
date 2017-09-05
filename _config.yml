@@ -1,6 +1,6 @@
 title: Jason Hannanto - Blog
-subtitle: "Computer Science Sophomore at USC"
-description: "Jason Hannanto's Personal Blog."
+subtitle: "Jason Hannanto's Personal Blog"
+description: "Computer Science. Keyboardist. Space Geek."
 author: Jason Hannanto
 language: en
 timezone: UTC
@@ -13,6 +13,7 @@ code_dir: downloads/code
 new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
+filename_case: 1
 
 theme: flexy
 deploy:
