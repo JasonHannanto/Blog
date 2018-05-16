@@ -1,43 +1,13 @@
-# Hexo Official Website
-<!-- Markdown snippet -->
-[![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
+# Personal Blog
 
-The website for Hexo. You can see the generated files at [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
+Personal Blog, deployed continously through Netlify. 
 
-## Getting started
+## Built With
 
-Install dependencies:
-
-``` bash
-$ git clone https://github.com/hexojs/site.git
-$ cd site
-$ npm install
-```
-
-Generate:
-
-``` bash
-$ hexo generate
-```
-
-Run server:
-
-``` bash
-$ hexo server
-```
-
-## Contributors
-
-- English - [tommy351](https://github.com/tommy351)
-- 正體中文 - [tommy351](https://github.com/tommy351)
-- 简体中文 - [pinggod](https://github.com/pinggod), [Xuanwo](https://github.com/Xuanwo)
-- Русский - [twirlfog](https://github.com/twirlfog)
-- 한국어 - [lazyrodi](https://github.com/lazyrodi)
-- Deutschland - [philippnagel](https://github.com/philippnagel)
+* [Hexo](http://www.dropwizard.io/1.0.2/docs/) - The framework used
+* [Node](https://maven.apache.org/)
+* [Netlify](https://rometools.github.io/rome/) - Used for continous deployment
 
 ## License
 
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-
-[tommy351]: https://github.com/tommy351
-[pinggod]: https://github.com/pinggod
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
